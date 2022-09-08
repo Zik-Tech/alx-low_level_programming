@@ -1,9 +1,17 @@
 #include <stdio.h>
-int main(void) /**
-		* Description: i called the main function.
-		*/
+/**
+ * main - Entry point
+ *
+ * Description: this program prints a line of words.
+ *
+ * Return: Always 0 (success)
+ */
+int main(void)
 {
-	/* this is a program that prints a line of word */
+	/**
+	 * Description: This is a program that prints,
+	 * a line of word.
+	 */
 	puts("\"Programming is like building a multilingual puzzle");
 	return (0);
 }
