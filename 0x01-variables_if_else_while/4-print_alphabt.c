@@ -17,9 +17,8 @@ int main(void)
 			continue;
 		if (alphabet == 'q')
 			continue;
-		else
-			alphabet = tolower(alphabet);
-			putchar(alphabet);
+		alphabet = tolower(alphabet);
+		putchar(alphabet);
 	}
 	putchar('\n');
 	return (0);
