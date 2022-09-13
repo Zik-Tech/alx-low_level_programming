@@ -3,6 +3,8 @@
 /**
  * main - Debugging.
  *
+ * Description: this is main.c file.
+ *
  * Return: 0
  */
 
